@@ -1,0 +1,47 @@
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.exe
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.deps.json
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.runtimeconfig.json
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.runtimeconfig.dev.json
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.dll
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\ref\Funcinones2.dll
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.pdb
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.AssemblyInfo.cs
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.dll
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\ref\Funcinones2.dll
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.pdb
+C:\Users\johan\source\repos\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.exe
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.deps.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.runtimeconfig.dev.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\refint\Funcinones2.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\ref\Funcinones2.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.exe
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.deps.json
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.runtimeconfig.json
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.runtimeconfig.dev.json
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\bin\Debug\net5.0\Funcinones2.pdb
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.AssemblyInfoInputs.cache
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.AssemblyInfo.cs
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.csproj.CoreCompileInputs.cache
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\refint\Funcinones2.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.pdb
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\Funcinones2.genruntimeconfig.cache
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\Funcinones2\Funcinones2\obj\Debug\net5.0\ref\Funcinones2.dll
